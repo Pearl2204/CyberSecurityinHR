@@ -5,8 +5,41 @@ import matplotlib.pyplot as plt
 # Streamlit app title
 st.title("Interactive HR Cybersecurity Risk Dashboard")
 
-# Upload CSV file
-uploaded_file = st.file_uploader("Upload Data File (CSV)", type=["csv"])
+# Option to upload a file or use embedded sample files
+file_option = st.radio(
+    "Choose how to load the data:",
+    ("Upload Your Own File", "Use Sample Data")
+)
+
+# Logic for uploading or selecting a sample file
+if file_option == "Upload Your Own File":
+    uploaded_file = st.file_uploader("Upload Your Data File (CSV)", type=["csv"])
+else:
+    sample_file = st.selectbox(
+        "Select a Sample Dataset:",
+        ["Login Data", "File Access Data", "Communication Data"]
+    )
+    # Set the file path for sample datasets
+    if sample_file == "Login Data":
+        uploaded_file = "login_data.csv"  # Embedded sample file
+    elif sample_file == "File Access Data":
+        uploaded_file = "file_access_data.csv"
+    elif sample_file == "Communication Data":
+        uploaded_file = "communication_data.csv"
+
+# Load and process the file
+if uploaded_file:
+    if file_option == "Upload Your Own File":
+        data = pd.read_csv(uploaded_file)
+    else:
+        data = pd.read_csv(uploaded_file)  # Load sample file
+
+    st.write("### Loaded Data Preview", data.head())
+
+    # Your existing logic for each type of analysis starts here...
+
+else:
+    st.write("Please upload a file or select a sample dataset to proceed.")
 
 if uploaded_file:
     # Allow user to select the type of data uploaded

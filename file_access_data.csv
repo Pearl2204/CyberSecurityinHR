@@ -1,0 +1,101 @@
+UserID,FileName,AccessTime,FileSize(MB),AccessType,Device
+emp007,file_3.docx,1/9/2025 2:00,7.07,View,Unknown Device
+emp020,data_2.xlsx,1/6/2025 18:00,48.49,View,Mobile 
+emp015,file_8.docx,1/6/2025 6:00,35.87,View,Personal Device
+emp011,file_3.docx,1/3/2025 8:00,2.53,View,Laptop
+emp008,file_1.docx,1/9/2025 7:00,20.24,Download,Laptop
+emp007,file_3.docx,1/3/2025 17:00,21.96,Download,Laptop
+emp019,file_5.docx,1/6/2025 10:00,37.33,View,Unknown Device
+emp011,data_5.xlsx,1/9/2025 17:00,12.92,View,Laptop
+emp011,data_4.xlsx,1/5/2025 9:00,9.62,View,Laptop
+emp004,file_3.docx,1/6/2025 6:00,4.5,Download,Personal Device
+emp008,file_1.docx,1/4/2025 15:00,21.7,View,Laptop
+emp003,file_5.docx,1/3/2025 15:00,34.58,View,Laptop
+emp002,data_4.xlsx,1/6/2025 19:00,3.38,Download,Mobile 
+emp012,file_7.docx,1/4/2025 16:00,45.8,Download,Mobile 
+emp006,file_9.docx,1/8/2025 0:00,22.4,View,Personal Device
+emp002,data_5.xlsx,1/7/2025 11:00,12.37,Download,Mobile 
+emp001,data_5.xlsx,1/5/2025 4:00,5.15,Download,Mobile 
+emp012,file_10.docx,1/3/2025 22:00,9.55,View,Laptop
+emp012,data_3.xlsx,1/5/2025 8:00,46.76,Download,Unknown Device
+emp017,data_9.xlsx,1/5/2025 18:00,32.09,View,Mobile 
+emp010,file_7.docx,1/8/2025 19:00,26.08,Download,Mobile 
+emp016,data_7.xlsx,1/3/2025 23:00,33.03,View,Mobile 
+emp015,data_10.xlsx,1/6/2025 23:00,22.07,View,Personal Device
+emp015,file_4.docx,1/3/2025 10:00,36.64,View,Laptop
+emp019,file_5.docx,1/6/2025 7:00,2.86,Download,Laptop
+emp012,file_7.docx,1/6/2025 5:00,28.52,View,Unknown Device
+emp020,data_3.xlsx,1/8/2025 2:00,8.35,Download,Laptop
+emp003,data_5.xlsx,1/3/2025 2:00,6.45,View,Mobile 
+emp005,data_1.xlsx,1/8/2025 17:00,17.42,View,Mobile 
+emp019,file_4.docx,1/4/2025 17:00,5.04,Download,Personal Device
+emp007,data_3.xlsx,1/5/2025 21:00,5.16,View,Laptop
+emp009,file_7.docx,1/7/2025 15:00,15.91,View,Laptop
+emp007,data_9.xlsx,1/6/2025 8:00,48.99,Download,Laptop
+emp018,file_2.docx,1/6/2025 0:00,9.18,View,Mobile 
+emp004,file_10.docx,1/8/2025 0:00,1.35,View,Laptop
+emp014,data_3.xlsx,1/6/2025 20:00,38.29,View,Laptop
+emp018,file_6.docx,1/9/2025 23:00,40.44,View,Mobile 
+emp009,data_2.xlsx,1/3/2025 2:00,17.64,Download,Laptop
+emp002,data_2.xlsx,1/6/2025 0:00,23.5,Download,Personal Device
+emp020,data_10.xlsx,1/8/2025 18:00,32.66,View,Mobile 
+emp015,data_1.xlsx,1/8/2025 22:00,2.88,Download,Mobile 
+emp007,file_7.docx,1/8/2025 13:00,47.48,View,Laptop
+emp012,file_1.docx,1/8/2025 5:00,44.39,Download,Laptop
+emp008,file_1.docx,1/5/2025 12:00,13.41,View,Unknown Device
+emp015,data_10.xlsx,1/5/2025 21:00,1.26,View,Laptop
+emp003,data_3.xlsx,1/7/2025 1:00,46.71,View,Laptop
+emp014,file_9.docx,1/6/2025 0:00,25.3,View,Personal Device
+emp017,file_3.docx,1/3/2025 14:00,27.2,View,Laptop
+emp004,file_7.docx,1/6/2025 4:00,34.36,View,Laptop
+emp018,file_6.docx,1/5/2025 15:00,30.98,Download,Laptop
+emp008,file_8.docx,1/5/2025 3:00,47.22,View,Laptop
+emp004,file_9.docx,1/3/2025 16:00,47.24,Download,Mobile 
+emp002,file_5.docx,1/6/2025 11:00,43.43,View,Mobile 
+emp006,file_1.docx,1/7/2025 13:00,32,Download,Laptop
+emp010,data_9.xlsx,1/5/2025 5:00,40.15,Download,Laptop
+emp004,file_10.docx,1/7/2025 8:00,34.02,Download,Unknown Device
+emp018,data_2.xlsx,1/7/2025 23:00,28.88,View,Laptop
+emp012,data_5.xlsx,1/8/2025 16:00,6.86,View,Laptop
+emp002,file_9.docx,1/9/2025 20:00,40.65,Download,Personal Device
+emp010,data_10.xlsx,1/6/2025 2:00,41.12,View,Mobile 
+emp004,data_7.xlsx,1/6/2025 0:00,31.48,Download,Laptop
+emp014,data_7.xlsx,1/9/2025 20:00,41.11,View,Laptop
+emp016,data_10.xlsx,1/5/2025 0:00,32.75,Download,Laptop
+emp015,data_2.xlsx,1/3/2025 17:00,10.73,Download,Laptop
+emp008,file_7.docx,1/9/2025 9:00,14.06,View,Laptop
+emp014,file_2.docx,1/4/2025 21:00,11.12,Download,Mobile 
+emp008,file_3.docx,1/8/2025 2:00,19.17,View,Personal Device
+emp016,data_7.xlsx,1/4/2025 23:00,2.43,Download,Laptop
+emp013,file_5.docx,1/8/2025 14:00,31.1,Download,Unknown Device
+emp018,data_7.xlsx,1/4/2025 22:00,17.16,View,Laptop
+emp015,data_7.xlsx,1/4/2025 9:00,32.96,View,Mobile 
+emp013,data_7.xlsx,1/3/2025 16:00,19.58,View,Laptop
+emp009,file_2.docx,1/5/2025 8:00,34.24,Download,Laptop
+emp015,file_2.docx,1/9/2025 21:00,17.36,View,Personal Device
+emp013,file_5.docx,1/9/2025 9:00,13.4,Download,Laptop
+emp001,file_1.docx,1/4/2025 2:00,25.05,Download,Laptop
+emp007,file_1.docx,1/7/2025 23:00,34.8,View,Laptop
+emp009,data_9.xlsx,1/3/2025 6:00,17.74,View,Mobile 
+emp001,file_2.docx,1/7/2025 3:00,46.86,Download,Laptop
+emp012,data_2.xlsx,1/3/2025 19:00,2.44,Download,Personal Device
+emp008,file_6.docx,1/8/2025 7:00,21.19,View,Laptop
+emp011,file_4.docx,1/8/2025 15:00,48.4,View,Laptop
+emp019,data_1.xlsx,1/5/2025 11:00,27.62,View,Personal Device
+emp017,data_7.xlsx,1/9/2025 22:00,21.46,View,Unknown Device
+emp008,file_6.docx,1/4/2025 1:00,28.64,View,Laptop
+emp003,file_5.docx,1/9/2025 22:00,29.01,Download,Laptop
+emp003,data_10.xlsx,1/5/2025 21:00,36.72,Download,Laptop
+emp001,file_2.docx,1/4/2025 21:00,6.82,Download,Laptop
+emp005,file_6.docx,1/3/2025 21:00,12.88,Download,Laptop
+emp010,data_1.xlsx,1/4/2025 19:00,29.24,View,Laptop
+emp007,data_6.xlsx,1/9/2025 5:00,43.42,View,Mobile 
+emp009,data_6.xlsx,1/5/2025 21:00,28.31,View,Laptop
+emp007,file_1.docx,1/3/2025 4:00,12.31,Download,Laptop
+emp009,file_9.docx,1/7/2025 7:00,34.15,Download,Laptop
+emp008,file_6.docx,1/6/2025 11:00,37.13,View,Unknown Device
+emp012,data_6.xlsx,1/9/2025 4:00,12.29,View,Laptop
+emp002,file_3.docx,1/8/2025 3:00,19.2,Download,Mobile 
+emp001,data_10.xlsx,1/6/2025 12:00,26.95,Download,Mobile 
+emp016,file_4.docx,1/5/2025 14:00,25.08,View,Personal Device
+emp005,data_9.xlsx,1/6/2025 22:00,19.79,View,Mobile 
